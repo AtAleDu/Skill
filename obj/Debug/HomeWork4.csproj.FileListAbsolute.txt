@@ -1,0 +1,8 @@
+C:\Users\artur\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\artur\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\artur\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\artur\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\artur\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.pdb
